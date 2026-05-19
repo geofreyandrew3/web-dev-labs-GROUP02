@@ -1,14 +1,11 @@
-OBJECTIVES
-    i.Understanding different CSS Styles 
-    ii.Linking multiple pages in a single page
-    iii.Oranizing content so browser can display it properly
-    iv.Create Hyperlinks to connect web pages together
-
+OBJECTIVE
+   The Purpose is to Understand how CSS controls webpage layout using traditional layout techniques such as Box Models,Positioning,Float and clear also demonstrates how layout problems occur when concepts are used incorrectly
 CHALLENGES 
-     i.Confusing CSS types
-     ii.Linking External CSS correctly
-     iii.Forgetting selectors
-
+     i.Managing Spacing in the box models
+     ii.Positioning Absolute Elements
+     iii.Fixed Header Overlapping content
+     iv.Sticky navigation behavior
+     v.Float layout instability
 
 MEMBER PARTICIPATED
 1.GEOFREY JOHN 33290/T.2024
